@@ -1,0 +1,6 @@
+{
+  "name": "electronchat",
+  "description": "electronchat",
+  "repository": "https://github.com/masakiando/electronchat",
+  "keywords": ["node", "express", "static"]
+}
